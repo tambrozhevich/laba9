@@ -1,0 +1,7 @@
+cat
+dog
+sleep
+work
+live
+enjoy
+task1
